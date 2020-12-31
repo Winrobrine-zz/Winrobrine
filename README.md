@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">언제나 새로움을 추구 🚀 하는 개발자, 박현우입니다 👨‍💻</div>  
   
 
